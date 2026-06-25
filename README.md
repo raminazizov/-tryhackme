@@ -15,6 +15,10 @@ Welcome to my repository where I document my progress, notes, and room write-ups
 ---
 *Created on: 2026-06-25
 ## TryHackMe Progress
-![TryHackMe](tryhackme.png)
+![azizramin47](tryhackme.png)
+
+## TryHackMe Progress
+
+![azizramin47](tryhackme.png)
 
 
