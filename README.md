@@ -13,4 +13,4 @@ Welcome to my repository where I document my progress, notes, and room write-ups
 * Practiced using essential security tools.
 
 ---
-*Created on: 2026-06-25*
+*Created on: 2026-06-25
