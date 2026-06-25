@@ -1,19 +1,17 @@
-# TryHackMe Cyber Security Journey 
+My Cyber Security Journey
 
-Welcome to my repository where I document my progress, notes, and room write-ups from TryHackMe.
+Hi, I’m Ramin.
 
-## Latest Achievement
-* **Room Name:** Offensive Security Intro
-* **Category:** Introduction to Cyber Security
-* **Status:** Completed 100% 
+I am learning Cyber Security, Python, Linux, and Networking.
 
-## What I Learned
-* Learned how to navigate through basic cyber security concepts.
-* Understand the fundamentals of researching and exploiting vulnerabilities.
-* Practiced using essential security tools.
+TryHackMe Profile
 
----
-*Created on: 2026-06-25
+https://tryhackme.com/p/azizramin47
+
+Completed Rooms
+
+* Offensive Security Intro
+* Introduction to Cyber Security
 
 
 
