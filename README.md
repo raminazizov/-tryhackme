@@ -14,6 +14,7 @@ Welcome to my repository where I document my progress, notes, and room write-ups
 
 ---
 *Created on: 2026-06-25
-## Proof Screenshot
-![TryHackMe Proof](image_4.png)
+## TryHackMe Progress
+![TryHackMe](tryhackme.png)
+
 
